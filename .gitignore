@@ -1,0 +1,6 @@
+data/real_*.json
+*.docx
+*.png
+data/*.json
+.env
+__pycache__
