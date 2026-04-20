@@ -3,4 +3,4 @@ data/real_*.json
 *.png
 data/*.json
 .env
-__pycache__
+__pycache__data/*.json
